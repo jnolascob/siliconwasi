@@ -238,6 +238,6 @@ span{
   padding-right: 15px;
 }
 
-.image-brand {
-  padding-bottom: 15px !important;  
+#sponsors .img-auspiciador{
+  padding: 20px 10px; 
 }
