@@ -238,7 +238,13 @@ span{
   padding-right: 15px;
 }
 
+<<<<<<< HEAD
 /*auspiciadores XIMvad*/
 #sponsors .img-auspiciador{
 	padding: 20px 10px;	
 }
+=======
+.image-brand {
+  padding-bottom: 15px !important;  
+}
+>>>>>>> e4c273b8ff1cec0c7310dbb8efdfee4639a904ad
