@@ -186,7 +186,21 @@ footer {
 
 #btn_slider{
   text-align: center;  
+  padding-top: 10px;    
+}
+
+#phrase{
+  text-align: center;  
   padding-top: 10px;
+  color: black;
+  font-size: 1.5em;
+}
+
+#sponsor{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;  
+  font-size: 1.5em;
 }
 
 
@@ -222,4 +236,9 @@ span{
  #footer > .container {
   padding-left: 15px;
   padding-right: 15px;
+}
+
+/*auspiciadores XIMvad*/
+#sponsors .img-auspiciador{
+	padding: 20px 10px;	
 }
