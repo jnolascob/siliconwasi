@@ -43,8 +43,9 @@ body {
   padding: 50px 0;
 }
 
-.section-colored {
-  background-color: rgba(0, 0, 0, 0.48); /* change this to change the background color of a colored section */
+.section-colored {  
+  background-color: #222222;
+  color: #FFFFFF;
 }
 
 .sidebar {
@@ -205,8 +206,7 @@ footer {
 
 
 /*font*/
-span{
-  color: #000;  
+span{  
   display: inline-block;
   font-family: starjedi;
   font-size: 1.5em;
@@ -247,5 +247,6 @@ span{
   width: 14px;
   height: 14px;
 }
+
 
 
